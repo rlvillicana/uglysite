@@ -1,0 +1,62 @@
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/people/peo-8/peo964.cur), auto !important;} /* End https://www.cursors-4u.com */
+body {
+    background-image: url(../img/pink\ sparkle.gif);
+    font-family: 'Comic Sans MS', cursive;
+}
+
+#fart {
+    position: absolute;
+    left: 60%
+}
+
+#eyes {
+    position: absolute;
+    right: 65%;
+    top: 50%
+}
+
+#poop1 {
+    position: absolute;
+    left: 70%;
+    top: 40%
+}
+
+#poop2 {
+    position: absolute;
+    left: 45%
+}
+
+#shark {
+    position: absolute;
+    right: 70%;
+}
+
+#heart {
+    position: absolute;
+    left: 85%;
+    top: 70%;
+}
+
+#roach {
+    position: absolute;
+    left: 80%;
+    top: 40%;
+}
+
+#wolf {
+    position: absolute;
+    left: 32%;
+    top: 20%;
+    border: 3px solid chartreuse;
+}
+
+h2 {
+    color: blue;
+    margin-left: 1300px;
+    margin-top: 6px;
+}
+
+#fire {
+    position: absolute;
+
+}
